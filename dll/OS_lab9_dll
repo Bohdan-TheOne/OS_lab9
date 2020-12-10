@@ -1,0 +1,7 @@
+#pragma once
+
+#include <iostream>
+
+extern "C" _declspec(dllexport) int add2(int a, int b);
+extern "C" _declspec(dllexport) void nameOutput(int num);
+extern "C" _declspec(dllexport) void mergeSort(int* arr, long n);

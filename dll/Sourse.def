@@ -1,0 +1,7 @@
+LIBRARY OS_lab9_dll
+
+EXPORTS
+
+add2
+nameOutput
+mergeSort
